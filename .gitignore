@@ -1,2 +1,4 @@
-mylog.log
-mylogs.logfile
+/mylog.log
+*.log
+logs/
+
