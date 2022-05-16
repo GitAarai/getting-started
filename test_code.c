@@ -6,7 +6,8 @@ int main()
 {
 char *token;
 char Arr[30] = "My Name is Ravi";
-
+jewgljldjqwd;
+ksjhsj;
 token = strtok(Arr, ",");
 while (token != NULL)
 {
